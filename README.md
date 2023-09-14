@@ -29,7 +29,7 @@ Through this app, we aim at solving the limitations of traditional content creat
 - 2FA Account Protection
 - Dedicated Dashboard for Women Health Services
 
-# Solution     :key
+# Solution :  :key
 We aim at solving the limitations of traditional content creation methods by leveraging advanced AI tehniques ensuring that the generated content by the app aligns with the user’s desired style and context. Our app has the potential to enhance health education, accessibility to information and overall well-being in an empowering manner.
 
 ## Product 
