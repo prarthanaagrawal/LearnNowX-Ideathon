@@ -81,6 +81,16 @@ PHP v8.1,PHP Mbstring Extension,PHP PDO Extension,PHP FileInfo Extension,PHP JSO
 ![PHP](https://img.shields.io/badge/-PHP-brightgreen)
 ![MySQL](https://img.shields.io/badge/-MySQL-yellow)
 
+## AI MODELS 
+1. Breast Cancer Detection :
+Convolutional Neural Networks to detect the presence of Metastatic tissue and Invasive Ductal Carcinoma Breast’s Histopathological Images.
+
+2. Cervical Cancer Detection :
+Voting Ensemble and Extreme Random Trees models predict presence of and preliminary test results according to user’s demographic information, habits, and historic medical records. Using the UCI's Machine Learning repository’s Cervical cancer (Risk Factors) Data Set.
+
+3. PCOS Prediction :
+We used a Voting Ensemble model to predict the risk of PCOS on the basis of lifestyle and food intake habits, that are derived from the 2017 Survey Data.
+There is a database to store data of patients for user-authentication and connect with the user dashboard to show the lab records and appointments
 
 ## Business Model / StartUp Potential  	:moneybag:
 Subscription-Based Model: Offer tiered subscription plans for users, providing access to different levels of features such as personalized health assessments, ongoing monitoring, virtual consultations with healthcare professionals, and exclusive educational content.
